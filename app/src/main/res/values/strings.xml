@@ -1,6 +1,16 @@
 <resources>
     <string name="app_name">Santander Dev Week</string>
+    <!--    main_menu-->
     <string name="menu_1">Menu 1</string>
     <string name="menu_2">Menu 2</string>
     <string name="menu_3">Menu 3</string>
+    <!--    activity_main-->
+    <string name="ola_dijon">Olá Dijon</string>
+    <string name="txt_saldo_disponvel">Saldo Disponível</string>
+    <string name="txt_saldo_limite">Saldo - Limite</string>
+    <string name="txt_ver_extrato">Ver Extrato</string>
+    <string name="txt_pagar">Pagar</string>
+    <string name="txt_transferir">Transferir</string>
+    <string name="txt_recarregar">Recarregar</string>
+    <string name="txt_cartao_final">Cartão Final</string>
 </resources>

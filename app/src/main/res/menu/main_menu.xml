@@ -4,7 +4,8 @@
     <item
         android:id="@+id/item_1"
         android:title="@string/menu_1"
-        app:showAsAction="never" />
+        app:showAsAction="never"
+        />
     <item
         android:id="@+id/item_2"
         android:title="@string/menu_2"
@@ -13,5 +14,5 @@
         android:id="@+id/item_3"
         android:title="@string/menu_3"
         app:showAsAction="ifRoom"
-        android:icon="@drawable/ic_launcher_foreground"/>
+        android:icon="@drawable/ic_notifications_none_black_24dp"/>
 </menu>
