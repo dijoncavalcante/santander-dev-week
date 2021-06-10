@@ -10,8 +10,8 @@ class FakeData {
         val cliente = Cliente("Dijon Braga")
         val cartao = Cartao("542542542")
         return Conta(
-            "733333-5",
-            "6553-6",
+            "CC 733333-5",
+            "AG 6553-6",
             "R$ 5.555,90",
             "R$ 4.345,00",
             cliente,
