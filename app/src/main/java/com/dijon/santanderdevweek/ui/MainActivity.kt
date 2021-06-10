@@ -1,4 +1,4 @@
-package com.dijon.santanderdevweek
+package com.dijon.santanderdevweek.ui
 
 import android.os.Bundle
 import android.util.Log
@@ -6,6 +6,7 @@ import android.view.Menu
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
+import com.dijon.santanderdevweek.R
 
 
 class MainActivity : AppCompatActivity() {
